@@ -21,8 +21,6 @@ img {
     display: grid;
     place-items: center;
     margin: auto;
-
-
 }
 
 .imagen {
@@ -30,43 +28,28 @@ img {
     justify-content: flex-end;
 }
 
-
 img {
     width: 300px;
     height: 300px;
     border-radius: 150px;
-
-}
-
-.global {
-    width: auto;
 }
 
 .contenido {
     width: 80%;
-    height: auto;
-    display: grid;
-    place-items: center;
     margin: auto;
-
+    display: grid;
+    justify-content: space-between;
+    justify-items: center;
 }
 
-.texto {
-    width: 80%;
-    height: auto;
-    display: grid;
-    place-items: center;
-    margin: auto;
-}
+
 
 .contact {
     background-color: rgb(246, 241, 241);
     width: 600px;
     height: 250px;
     padding: 2%;
-
 }
-
 
 .Portfolio {
     width: 80%;
@@ -74,12 +57,9 @@ img {
     display: grid;
     justify-content: space-between;
     justify-items: center;
-
 }
 
-
 .card {
-
     width: 300px;
     height: 200px;
 }
@@ -87,3 +67,4 @@ img {
 .carta {
     padding-top: 5%;
 }
+
