@@ -46,8 +46,8 @@ img {
 
 .contact {
     background-color: rgb(246, 241, 241);
-    width: 600px;
-    height: 250px;
+    width: 70%;
+    height: auto;
     padding: 2%;
 }
 
