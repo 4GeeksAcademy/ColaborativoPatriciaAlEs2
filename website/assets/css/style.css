@@ -1,28 +1,28 @@
-
-body{
+body {
     background: white;
 }
 
 nav {
-    
-     display: grid;
-     place-items: center;
-     margin: auto;
+
+    display: grid;
+    place-items: center;
+    margin: auto;
 }
 
 img {
     border-radius: 50%;
     width: 300px;
-    height: 300px; 
+    height: 300px;
 }
 
 .primera-card {
-     width: 80%;
-     height: auto;
-     display: grid;
-     place-items: center;
-     margin: auto;
+    width: 80%;
+    height: auto;
+    display: grid;
+    place-items: center;
+    margin: auto;
     
+
 }
 
 .imagen {
@@ -31,40 +31,64 @@ img {
 }
 
 
-.primera-card{
-    width: 80%;
-    height: auto;
-    display: grid;
-    place-items: center;
-    margin: auto;
-   
-}
-img{
+
+
+img {
     width: 300px;
     height: 300px;
     border-radius: 150px;
-    display: flex
-
     
 }
 
-.global{
+
+
+.global {
     width: auto;
 }
-.contenido{
+
+.contenido {
     width: 80%;
     height: auto;
- 
     display: grid;
     place-items: center;
     margin: auto;
 
 }
-.contact{
+
+.texto {
+    width: 80%;
+    height: auto;
+    display: grid;
+    place-items: center;
+    margin: auto;
+
+}
+
+.contact {
     background-color: rgb(246, 241, 241);
     width: 600px;
     height: 250px;
     padding: 2%;
+
+}
+
+
+.Portfolio2 {
+    width: 80%;
+     margin: auto;
+    display: grid;
+    justify-content: space-between;
+    justify-items: center;
     
+}
+
+.texto2 {
+    width: 80%;
+    height: auto;
+    display: grid;
+    
+    margin: auto;
+
+
 }
 
