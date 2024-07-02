@@ -16,7 +16,7 @@ img {
 }
 
 .primera-card {
-    width: 80%;
+    width: 90%;
     height: auto;
     display: grid;
     place-items: center;
@@ -35,7 +35,7 @@ img {
 }
 
 .contenido {
-    width: 80%;
+    width: 90%;
     margin: auto;
     display: grid;
     justify-content: space-between;
@@ -46,8 +46,6 @@ img {
 
 .contact {
     background-color: rgb(246, 241, 241);
-    width: 70%;
-    height: auto;
     padding: 2%;
 }
 
@@ -60,8 +58,8 @@ img {
 }
 
 .card {
-    width: 300px;
-    height: 200px;
+    width: 100%;
+    height: auto;
 }
 
 .carta {
